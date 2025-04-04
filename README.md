@@ -1,8 +1,6 @@
 
 <div align="center">
-  <h3>💌</h3>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Readex+Pro&weight=300&size=33&pause=1000&color=31B7F7&center=true&vCenter=true&random=true&width=566&height=70&lines=Welcome+to+eundeom%E2%80%99s+GitHub!" alt="Typing SVG" /></a>
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inclusive+Sans&weight=500&size=35&pause=1000&color=000000&center=true&vCenter=true&width=600&height=200&lines=Welcome+to+eundeom's+Github+%F0%9F%AA%BD" alt="Typing SVG" /></a>
 <br><br> 
 
 ###  📧
