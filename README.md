@@ -83,6 +83,7 @@
   
 | project               | desc                                            | stack                                | link                                                       |
 | --------------------- | ----------------------------------------------- | ------------------------------------ | ---------------------------------------------------------- |
+| 🛍️ **SHOONG**        | 라이브 e-커머스 플랫폼                        | Java, EKS, MariaDB               | [🔗](https://github.com/SHOONG-SHOONG)                   |
 | 🎵 **coTrack**        | 협업 플레이리스트 서비스                        | React, supabase, OAuth               | [🔗](https://github.com/eundeom/coTrack)                   |
 | 🌐 **Linkey**         | 사용자 맞춤형 링크 관리 및 단축 URL 생성 서비스 | Java, Spring Boot, React, PostgreSQL | [🔗](https://github.com/orgs/Seollal-TF-TEAM/repositories) |
 | 🏹 **recoMusic**      | 사용자 취향 기반 음악 추천 서비스               | Python, TensorFlow, React            | [🔗](https://github.com/eundeom/recoMusic)                 |
