@@ -28,8 +28,6 @@
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"> 
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-3D8D7A?style=flat-square&logo=MongoDB&logoColor=FFFFFF"> <br>
   <img alt="ElasticSearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
-  <img alt="Logstash" src="https://img.shields.io/badge/Logstash-9E1D1A?style=flat-square&logo=logstash&logoColor=white"> 
-  <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white"> 
   <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white">
   <br>
 </div>
@@ -50,7 +48,6 @@
 <div align=center class="badges">
   <img alt="React" src="https://img.shields.io/badge/React-0B192C?style=flat-square&logo=REACT"> 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><br>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">  
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-B8001F?style=flat-square&logo=html5&logoColor=white&color=B8001F">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-578FCA?style=flat-square&logo=CSS3"> <br>
 </div>
@@ -62,7 +59,7 @@
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-3674B5?style=flat-square&logo=MySQL&logoColor=FFFFFF">
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">  <br>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white">  <br>
 </div>
 
 <!-- Tools -->
@@ -91,7 +88,7 @@
 
 ---
 
-### **woori FISA**
+### **Woori FISA**
 
 | project                           | desc                                                                  | stack                                       | link                                                                 |
 | --------------------------------- | --------------------------------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------- |
